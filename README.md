@@ -399,6 +399,10 @@ and more.
   to cover your portfolio against onchain risks such as smart contract exploits
   and oracle failures.
 
+  - **[Openfort](https://openfort.xyz/)**: Openfort is a wallet abstraction product
+  that allows games to integrate the authenticate, management of private keys, and
+  onchain interactions from a single to use API reference.
+
 - **[OpenZeppelin Defender](https://openzeppelin.com/defender)**: The secure
   smart contract automation platform for developers. Ship Web3 technology
   faster, safer, and with confidence using OpenZeppelin Defender.
